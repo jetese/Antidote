@@ -20,5 +20,5 @@ Puesto que la delincuencia aumentó, la ciudad “modelo” fue entonces dividida en 
 
 Aquellos a los que la crisis no les había afectado vivieron dentro de la zona custodiada, amparados por su aislamiento y protección... mientras que los menos afortunados fueron abandonados fuera, obligados a construir casas con lo poco que había alrededor del muro, y aferrándose a la esperanza de volver a vivir dentro algún día.
 
-+Info [jetese](https://www.jetese.es)
++Info [jetese](https://www.jetese.es/index.php/antidote/)
                        
