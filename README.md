@@ -1,6 +1,6 @@
 # Antidote
 
-Videojuego realizado por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel Gastón, Juan Daniel Silva Mora, Jesús Téllez.
+Videojuego realizado en RPG Maker por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel Gastón, Juan Daniel Silva Mora, Jesús Téllez.
 
 
 
