@@ -1,24 +1,30 @@
-# Antidote
-
- Demo de videojuego realizado en RPG Maker por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel GastÛn, Juan Daniel Silva Mora, Jes˙s TÈllez.
+![alt text](https://github.com/jetese/Antidote/blob/master/Intro.PNG "Header")
 
 
+ Demo de videojuego realizado en RPG Maker por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel Gast√≥n, Juan Daniel Silva Mora, Jes√∫s T√©llez.
 
-##IntroducciÛn
 
-Hace tiempo, habÌa una gran ciudad prÛspera en la que las personas vivÌan en armonÌa y felicidad, sin preocupaciones ni desdicha.
 
-Animado por cantidades de dinero que parecÌan no acabar, el gobierno invirtiÛ grandes sumas en investigaciÛn y desarrollo, promoviendo importantes negocios con empresas de todo tipo...
+## Introducci√≥n
 
-En concreto, tuvieron lugar grandes avances en el campo de la ciencia de mano de excelentes cientÌficos, entre los que cabrÌa destacar un grupo liderado por un cientÌfico aristÛcrata y su proyecto de investigaciÛn, cuyo objetivo fue el de buscar un cura del alzhÈimer asequible para todo el mundo.
+Hace tiempo, hab√≠a una gran ciudad pr√≥spera en la que las personas viv√≠an en armon√≠a y felicidad, sin preocupaciones ni desdicha.
 
-Fracaso tras fracaso, fue creada una milagrosa vacuna, promovida y financiada por el gobierno. Poco a poco, toda la gente se empezÛ a vacunar, uno tras otro, hasta que la gran mayorÌa de la poblaciÛn habÌa sido vacunada.
+Animado por cantidades de dinero que parec√≠an no acabar, el gobierno invirti√≥ grandes sumas en investigaci√≥n y desarrollo, promoviendo importantes negocios con empresas de todo tipo...
 
-No obstante, poco tiempo despuÈs... °LA CRISIS ESTALL”! Los bancos quebraron, el gobierno no podÌa garantizar el pago a los funcionarios, los servicios p˙blicos fueron suspendidos.
+En concreto, tuvieron lugar grandes avances en el campo de la ciencia de mano de excelentes cient√≠ficos, entre los que cabr√≠a destacar un grupo liderado por un cient√≠fico arist√≥crata y su proyecto de investigaci√≥n, cuyo objetivo fue el de buscar un cura del alzh√©imer asequible para todo el mundo.
 
-Puesto que la delincuencia aumentÛ, la ciudad ìmodeloî fue entonces dividida en dos por un muro que a su vez era custodiado por seguridad privada...
+Fracaso tras fracaso, fue creada una milagrosa vacuna, promovida y financiada por el gobierno. Poco a poco, toda la gente se empez√≥ a vacunar, uno tras otro, hasta que la gran mayor√≠a de la poblaci√≥n hab√≠a sido vacunada.
 
-Aquellos a los que la crisis no les habÌa afectado vivieron dentro de la zona custodiada, amparados por su aislamiento y protecciÛn... mientras que los menos afortunados fueron abandonados fuera, obligados a construir casas con lo poco que habÌa alrededor del muro, y aferr·ndose a la esperanza de volver a vivir dentro alg˙n dÌa.
+No obstante, poco tiempo despu√©s... ¬°LA CRISIS ESTALL√ì! Los bancos quebraron, el gobierno no pod√≠a garantizar el pago a los funcionarios, los servicios p√∫blicos fueron suspendidos.
+
+Puesto que la delincuencia aument√≥, la ciudad ‚Äúmodelo‚Äù fue entonces dividida en dos por un muro que a su vez era custodiado por seguridad privada...
+
+Aquellos a los que la crisis no les hab√≠a afectado vivieron dentro de la zona custodiada, amparados por su aislamiento y protecci√≥n... mientras que los menos afortunados fueron abandonados fuera, obligados a construir casas con lo poco que hab√≠a alrededor del muro, y aferr√°ndose a la esperanza de volver a vivir dentro alg√∫n d√≠a.
+
+![alt text](https://github.com/jetese/Antidote/blob/master/Captura1.PNG "Captura1")
+![alt text](https://github.com/jetese/Antidote/blob/master/Captura2.PNG "Captura2")
+![alt text](https://github.com/jetese/Antidote/blob/master/Captura3.PNG "Captura3")
+![alt text](https://github.com/jetese/Antidote/blob/master/Captura4.PNG "Captura4")
 
 +Info [jetese](https://www.jetese.es)
                        
