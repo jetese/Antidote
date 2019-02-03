@@ -1,6 +1,6 @@
 # Antidote
 
-Videojuego realizado en RPG Maker por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel Gastón, Juan Daniel Silva Mora, Jesús Téllez.
+ Demo de videojuego realizado en RPG Maker por Juan Antonio Ruiz Ramirez, Julio Morales, Ismael Cuenca, Raquel Gastón, Juan Daniel Silva Mora, Jesús Téllez.
 
 
 
